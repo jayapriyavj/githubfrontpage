@@ -33,7 +33,9 @@ span{
     margin-right:1200px;
     padding:30px;
     font-weight:bolder;
-    font-size:xx-large
+    font-size:xx-large;
+     color: white;
+   text-align: center;
 
 
 }
